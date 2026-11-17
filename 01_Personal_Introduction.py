@@ -1,0 +1,16 @@
+Name = input("Name: ")
+College = input("College: ")
+Course = input("Course: ")
+Age = int(input("Age: "))
+Goal = input("Goal: ")
+print("\n==================================")
+print("        Personal Profile")
+print("==================================")
+
+print("Name:", Name)
+print("College:", College)
+print("Course: ", Course)
+print("Age:", Age)
+print("Goal: ", Goal)
+
+print("==================================")
